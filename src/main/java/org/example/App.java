@@ -19,5 +19,8 @@ public class App
 
         Toyota tot = new Toyota("PAL202");
         System.out.println("VElocidad Maxima Toy: " + tot.getVelocidadMaxima());
+
+        System.out.println("agregamos m  en la web despues de comitear a mi local ");
+
     }
 }
