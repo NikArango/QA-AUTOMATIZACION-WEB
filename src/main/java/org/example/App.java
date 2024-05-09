@@ -27,7 +27,10 @@ public class App
 
                                 System.out.println("ncccccccc en la web " + tot.getVelocidadMaxima());
                                         System.out.println("cw2en la web " + tot.getVelocidadMaxima());
+        
+                                        System.out.println("cw3 en la web " + tot.getVelocidadMaxima());
 
+        
 
 
 
