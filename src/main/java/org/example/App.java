@@ -21,5 +21,8 @@ public class App
         System.out.println("VElocidad Maxima Toy: " + tot.getVelocidadMaxima());
         System.out.println("sera eliminado: " + tot.getVelocidadMaxima());
 
+                System.out.println("nueva rama cambio en la web " + tot.getVelocidadMaxima());
+
+
     }
 }
