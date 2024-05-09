@@ -23,6 +23,9 @@ public class App
 
                 System.out.println("nueva rama cambio en la web " + tot.getVelocidadMaxima());
 
+                        System.out.println("nuevoooooooo en la web " + tot.getVelocidadMaxima());
+
+
 
     }
 }
